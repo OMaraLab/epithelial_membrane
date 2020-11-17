@@ -690,35 +690,35 @@
 
 [ moleculetype ]
 ; molname      nrexcl
-  DPFH         1
+  DPF1         1
 
 [ atoms ]
 ; id 	type 	resnr 	residu 	atom 	cgnr 	charge   mass
- 1      SP1     1       DPFH     GM1     1      0        72.0000
- 2       P1     1       DPFH     GM2     2      0        72.0000 ; Changed from SP1 to P1
- 3      SP1     1       DPFH     GM3     3      0        72.0000
- 4      SP1     1       DPFH     GM4     4      0        72.0000
- 5       P1     1       DPFH     GM5     5      0        72.0000 ; Changed from SP1 to P1
- 6      SP1     1       DPFH     GM6     6      0        72.0000 ; SNda in GM1 - as it's not a branching bead any more 
- 7      SP1     1       DPFH     GM7     7      0        72.0000
- 8       P1     1       DPFH     GM8     8      0        72.0000 ; Changed from SP1 to P1 like in GM3 lipids due to linear shape
- 9      SP1     1       DPFH     GM9     9      0        72.0000  
-10       P4     1       DPFH     GM10   10      0        72.0000
-11      SP1     1       DPFH     GM11   11      0        72.0000
-12      SP1     1       DPFH     GM12   12      0        72.0000
-13       P4     1       DPFH     GM13   13      0        72.0000
-14      SP1     1       DPFH     GM14   14      0        72.0000
-15      SP1     1       DPFH     GM15   15      0        72.0000
+ 1      SP1     1       DPF1     GM1     1      0        72.0000
+ 2       P1     1       DPF1     GM2     2      0        72.0000 ; Changed from SP1 to P1
+ 3      SP1     1       DPF1     GM3     3      0        72.0000
+ 4      SP1     1       DPF1     GM4     4      0        72.0000
+ 5       P1     1       DPF1     GM5     5      0        72.0000 ; Changed from SP1 to P1
+ 6      SP1     1       DPF1     GM6     6      0        72.0000 ; SNda in GM1 - as it's not a branching bead any more 
+ 7      SP1     1       DPF1     GM7     7      0        72.0000
+ 8       P1     1       DPF1     GM8     8      0        72.0000 ; Changed from SP1 to P1 like in GM3 lipids due to linear shape
+ 9      SP1     1       DPF1     GM9     9      0        72.0000  
+10       P4     1       DPF1     GM10   10      0        72.0000
+11      SP1     1       DPF1     GM11   11      0        72.0000
+12      SP1     1       DPF1     GM12   12      0        72.0000
+13       P4     1       DPF1     GM13   13      0        72.0000
+14      SP1     1       DPF1     GM14   14      0        72.0000
+15      SP1     1       DPF1     GM15   15      0        72.0000
 ; Tail part  
-16       P1     1       DPFH     AM1    16      0        72.0000
-17       P5     1       DPFH     AM2    17      0        72.0000
-18       C3     1       DPFH     T1A    18      0        72.0000
-19       C1     1       DPFH     C2A    19      0        72.0000
-20       C1     1       DPFH     C3A    20      0        72.0000
-21       P1     1       DPFH     H1B    21      0        72.0000
-22       C1     1       DPFH     C2B    22      0        72.0000
-23       C1     1       DPFH     C3B    23      0        72.0000
-24       C1     1       DPFH     C4B    24      0        72.0000
+16       P1     1       DPF1     AM1    16      0        72.0000
+17       P5     1       DPF1     AM2    17      0        72.0000
+18       C3     1       DPF1     T1A    18      0        72.0000
+19       C1     1       DPF1     C2A    19      0        72.0000
+20       C1     1       DPF1     C3A    20      0        72.0000
+21       P1     1       DPF1     H1B    21      0        72.0000
+22       C1     1       DPF1     C2B    22      0        72.0000
+23       C1     1       DPF1     C3B    23      0        72.0000
+24       C1     1       DPF1     C4B    24      0        72.0000
 
 [ bonds ]
 ; i j 	funct 	length 	force.c.
@@ -853,36 +853,36 @@
 
 [ moleculetype ]
 ; molname      nrexcl
-  PBFH         1
+  PBF1         1
 
 [ atoms ]
 ; id 	type 	resnr 	residu 	atom 	cgnr 	charge   mass
- 1      SP1     1       PBFH     GM1     1      0        72.0000
- 2       P1     1       PBFH     GM2     2      0        72.0000 ; Changed from SP1 to P1
- 3      SP1     1       PBFH     GM3     3      0        72.0000
- 4      SP1     1       PBFH     GM4     4      0        72.0000
- 5       P1     1       PBFH     GM5     5      0        72.0000 ; Changed from SP1 to P1
- 6      SP1     1       PBFH     GM6     6      0        72.0000 ; SNda in GM1 - as it's not a branching bead any more 
- 7      SP1     1       PBFH     GM7     7      0        72.0000
- 8       P1     1       PBFH     GM8     8      0        72.0000 ; Changed from SP1 to P1 like in GM3 lipids due to linear shape
- 9      SP1     1       PBFH     GM9     9      0        72.0000  
-10       P4     1       PBFH     GM10   10      0        72.0000
-11      SP1     1       PBFH     GM11   11      0        72.0000
-12      SP1     1       PBFH     GM12   12      0        72.0000
-13       P4     1       PBFH     GM13   13      0        72.0000
-14      SP1     1       PBFH     GM14   14      0        72.0000
-15      SP1     1       PBFH     GM15   15      0        72.0000
+ 1      SP1     1       PBF1     GM1     1      0        72.0000
+ 2       P1     1       PBF1     GM2     2      0        72.0000 ; Changed from SP1 to P1
+ 3      SP1     1       PBF1     GM3     3      0        72.0000
+ 4      SP1     1       PBF1     GM4     4      0        72.0000
+ 5       P1     1       PBF1     GM5     5      0        72.0000 ; Changed from SP1 to P1
+ 6      SP1     1       PBF1     GM6     6      0        72.0000 ; SNda in GM1 - as it's not a branching bead any more 
+ 7      SP1     1       PBF1     GM7     7      0        72.0000
+ 8       P1     1       PBF1     GM8     8      0        72.0000 ; Changed from SP1 to P1 like in GM3 lipids due to linear shape
+ 9      SP1     1       PBF1     GM9     9      0        72.0000  
+10       P4     1       PBF1     GM10   10      0        72.0000
+11      SP1     1       PBF1     GM11   11      0        72.0000
+12      SP1     1       PBF1     GM12   12      0        72.0000
+13       P4     1       PBF1     GM13   13      0        72.0000
+14      SP1     1       PBF1     GM14   14      0        72.0000
+15      SP1     1       PBF1     GM15   15      0        72.0000
 ; Tail part  
-16       P1     1       PBFH     AM1    16      0        72.0000
-17       P5     1       PBFH     AM2    17      0        72.0000
-18       C3     1       PBFH     T1A    18      0        72.0000
-19       C1     1       PBFH     C2A    19      0        72.0000
-20       C1     1       PBFH     C3A    20      0        72.0000
-21       P1     1       PBFH     H1B    21      0        72.0000
-22       C1     1       PBFH     C2B    22      0        72.0000
-23       C1     1       PBFH     C3B    23      0        72.0000
-24       C1     1       PBFH     C4B    24      0        72.0000
-25       C1     1       PBFH     C5B    25      0        72.0000
+16       P1     1       PBF1     AM1    16      0        72.0000
+17       P5     1       PBF1     AM2    17      0        72.0000
+18       C3     1       PBF1     T1A    18      0        72.0000
+19       C1     1       PBF1     C2A    19      0        72.0000
+20       C1     1       PBF1     C3A    20      0        72.0000
+21       P1     1       PBF1     H1B    21      0        72.0000
+22       C1     1       PBF1     C2B    22      0        72.0000
+23       C1     1       PBF1     C3B    23      0        72.0000
+24       C1     1       PBF1     C4B    24      0        72.0000
+25       C1     1       PBF1     C5B    25      0        72.0000
 
 [ bonds ]
 ; i j 	funct 	length 	force.c.
@@ -1019,37 +1019,37 @@
 
 [ moleculetype ]
 ; molname      nrexcl
-  PXFH         1
+  PXF1         1
 
 [ atoms ]
 ; id 	type 	resnr 	residu 	atom 	cgnr 	charge   mass
- 1      SP1     1       PXFH     GM1     1      0        72.0000
- 2       P1     1       PXFH     GM2     2      0        72.0000 ; Changed from SP1 to P1
- 3      SP1     1       PXFH     GM3     3      0        72.0000
- 4      SP1     1       PXFH     GM4     4      0        72.0000
- 5       P1     1       PXFH     GM5     5      0        72.0000 ; Changed from SP1 to P1
- 6      SP1     1       PXFH     GM6     6      0        72.0000 ; SNda in GM1 - as it's not a branching bead any more 
- 7      SP1     1       PXFH     GM7     7      0        72.0000
- 8       P1     1       PXFH     GM8     8      0        72.0000 ; Changed from SP1 to P1 like in GM3 lipids due to linear shape
- 9      SP1     1       PXFH     GM9     9      0        72.0000  
-10       P4     1       PXFH     GM10   10      0        72.0000
-11      SP1     1       PXFH     GM11   11      0        72.0000
-12      SP1     1       PXFH     GM12   12      0        72.0000
-13       P4     1       PXFH     GM13   13      0        72.0000
-14      SP1     1       PXFH     GM14   14      0        72.0000
-15      SP1     1       PXFH     GM15   15      0        72.0000
+ 1      SP1     1       PXF1     GM1     1      0        72.0000
+ 2       P1     1       PXF1     GM2     2      0        72.0000 ; Changed from SP1 to P1
+ 3      SP1     1       PXF1     GM3     3      0        72.0000
+ 4      SP1     1       PXF1     GM4     4      0        72.0000
+ 5       P1     1       PXF1     GM5     5      0        72.0000 ; Changed from SP1 to P1
+ 6      SP1     1       PXF1     GM6     6      0        72.0000 ; SNda in GM1 - as it's not a branching bead any more 
+ 7      SP1     1       PXF1     GM7     7      0        72.0000
+ 8       P1     1       PXF1     GM8     8      0        72.0000 ; Changed from SP1 to P1 like in GM3 lipids due to linear shape
+ 9      SP1     1       PXF1     GM9     9      0        72.0000  
+10       P4     1       PXF1     GM10   10      0        72.0000
+11      SP1     1       PXF1     GM11   11      0        72.0000
+12      SP1     1       PXF1     GM12   12      0        72.0000
+13       P4     1       PXF1     GM13   13      0        72.0000
+14      SP1     1       PXF1     GM14   14      0        72.0000
+15      SP1     1       PXF1     GM15   15      0        72.0000
 ; Tail part  
-16       P1     1       PXFH     AM1    16      0        72.0000
-17       P5     1       PXFH     AM2    17      0        72.0000
-18       C3     1       PXFH     T1A    18      0        72.0000
-19       C1     1       PXFH     C2A    19      0        72.0000
-20       C1     1       PXFH     C3A    20      0        72.0000
-21       P1     1       PXFH     H1B    21      0        72.0000
-22       C1     1       PXFH     C2B    22      0        72.0000
-23       C1     1       PXFH     C3B    23      0        72.0000
-24       C1     1       PXFH     C4B    24      0        72.0000
-25       C1     1       PXFH     C5B    25      0        72.0000
-26       C1     1       PXFH     C6B    26      0        72.0000
+16       P1     1       PXF1     AM1    16      0        72.0000
+17       P5     1       PXF1     AM2    17      0        72.0000
+18       C3     1       PXF1     T1A    18      0        72.0000
+19       C1     1       PXF1     C2A    19      0        72.0000
+20       C1     1       PXF1     C3A    20      0        72.0000
+21       P1     1       PXF1     H1B    21      0        72.0000
+22       C1     1       PXF1     C2B    22      0        72.0000
+23       C1     1       PXF1     C3B    23      0        72.0000
+24       C1     1       PXF1     C4B    24      0        72.0000
+25       C1     1       PXF1     C5B    25      0        72.0000
+26       C1     1       PXF1     C6B    26      0        72.0000
 
 [ bonds ]
 ; i j 	funct 	length 	force.c.
@@ -1188,37 +1188,37 @@
 
 [ moleculetype ]
 ; molname      nrexcl
-  PNFH         1
+  PNF1         1
 
 [ atoms ]
 ; id 	type 	resnr 	residu 	atom 	cgnr 	charge   mass
- 1      SP1     1       PNFH     GM1     1      0        72.0000
- 2       P1     1       PNFH     GM2     2      0        72.0000 ; Changed from SP1 to P1
- 3      SP1     1       PNFH     GM3     3      0        72.0000
- 4      SP1     1       PNFH     GM4     4      0        72.0000
- 5       P1     1       PNFH     GM5     5      0        72.0000 ; Changed from SP1 to P1
- 6      SP1     1       PNFH     GM6     6      0        72.0000 ; SNda in GM1 - as it's not a branching bead any more 
- 7      SP1     1       PNFH     GM7     7      0        72.0000
- 8       P1     1       PNFH     GM8     8      0        72.0000 ; Changed from SP1 to P1 like in GM3 lipids due to linear shape
- 9      SP1     1       PNFH     GM9     9      0        72.0000  
-10       P4     1       PNFH     GM10   10      0        72.0000
-11      SP1     1       PNFH     GM11   11      0        72.0000
-12      SP1     1       PNFH     GM12   12      0        72.0000
-13       P4     1       PNFH     GM13   13      0        72.0000
-14      SP1     1       PNFH     GM14   14      0        72.0000
-15      SP1     1       PNFH     GM15   15      0        72.0000
+ 1      SP1     1       PNF1     GM1     1      0        72.0000
+ 2       P1     1       PNF1     GM2     2      0        72.0000 ; Changed from SP1 to P1
+ 3      SP1     1       PNF1     GM3     3      0        72.0000
+ 4      SP1     1       PNF1     GM4     4      0        72.0000
+ 5       P1     1       PNF1     GM5     5      0        72.0000 ; Changed from SP1 to P1
+ 6      SP1     1       PNF1     GM6     6      0        72.0000 ; SNda in GM1 - as it's not a branching bead any more 
+ 7      SP1     1       PNF1     GM7     7      0        72.0000
+ 8       P1     1       PNF1     GM8     8      0        72.0000 ; Changed from SP1 to P1 like in GM3 lipids due to linear shape
+ 9      SP1     1       PNF1     GM9     9      0        72.0000  
+10       P4     1       PNF1     GM10   10      0        72.0000
+11      SP1     1       PNF1     GM11   11      0        72.0000
+12      SP1     1       PNF1     GM12   12      0        72.0000
+13       P4     1       PNF1     GM13   13      0        72.0000
+14      SP1     1       PNF1     GM14   14      0        72.0000
+15      SP1     1       PNF1     GM15   15      0        72.0000
 ; Tail part  
-16       P1     1       PNFH     AM1    16      0        72.0000
-17       P5     1       PNFH     AM2    17      0        72.0000
-18       C3     1       PNFH     T1A    18      0        72.0000
-19       C1     1       PNFH     C2A    19      0        72.0000
-20       C1     1       PNFH     C3A    20      0        72.0000
-21       P1     1       PNFH     H1B    21      0        72.0000
-22       C1     1       PNFH     C2B    22      0        72.0000
-23       C1     1       PNFH     C3B    23      0        72.0000
-24       C3     1       PNFH     D4B    24      0        72.0000
-25       C1     1       PNFH     C5B    25      0        72.0000
-26       C1     1       PNFH     C6B    26      0        72.0000
+16       P1     1       PNF1     AM1    16      0        72.0000
+17       P5     1       PNF1     AM2    17      0        72.0000
+18       C3     1       PNF1     T1A    18      0        72.0000
+19       C1     1       PNF1     C2A    19      0        72.0000
+20       C1     1       PNF1     C3A    20      0        72.0000
+21       P1     1       PNF1     H1B    21      0        72.0000
+22       C1     1       PNF1     C2B    22      0        72.0000
+23       C1     1       PNF1     C3B    23      0        72.0000
+24       C3     1       PNF1     D4B    24      0        72.0000
+25       C1     1       PNF1     C5B    25      0        72.0000
+26       C1     1       PNF1     C6B    26      0        72.0000
 
 [ bonds ]
 ; i j 	funct 	length 	force.c.
