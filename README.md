@@ -10,5 +10,23 @@ This work is published as
 
 Wilson, K.A., Fairweather, S.J., MacDermott-Opeskin, H.I., Wang, L., Morris, R.A., and O’Mara, M.L. (2021) The role of plasmalogens, Forssman lipids, and sphingolipid hydroxylation in modulating the biophysical properties of the epithelial plasma membrane. J. Chem. Phys. 154, 095101. DOI: 10.1063/5.0040887.
 
-All material is provided under an MIT license please cite the above references when using this work
+## Citation
+```
+@article{Wilson2021,
+annote = {doi: 10.1063/5.0040887},
+author = {Wilson, Katie A and Fairweather, Stephen J and MacDermott-Opeskin, Hugo I and Wang, Lily and Morris, Richard A and O'Mara, Megan L},
+doi = {10.1063/5.0040887},
+issn = {0021-9606},
+journal = {The Journal of Chemical Physics},
+month = {mar},
+number = {9},
+pages = {95101},
+publisher = {American Institute of Physics},
+title = {{The role of plasmalogens, Forssman lipids, and sphingolipid hydroxylation in modulating the biophysical properties of the epithelial plasma membrane}},
+url = {https://doi.org/10.1063/5.0040887},
+volume = {154},
+year = {2021}
+}
+```
 
+All material is provided under an MIT license please cite the above references when using this work
